@@ -1,6 +1,6 @@
-- Addis Ababa University, CNCS
-- Department of Computer science
-- Year II, Semester I
+ Addis Ababa University, CNCS
+<br> Department of Computer science
+<br> Year II, Semester I
 # Computer programming II Project
 - Project idea to be submitted on: Jan 3/ 2023
 -  To be submitted to: Instructor Nesredin Suleiman

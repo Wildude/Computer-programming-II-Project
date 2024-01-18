@@ -1,1 +1,1 @@
-# This folder is for the purpose of storing temporary and useless files
+# This folder is for the purpose of storing temporary and useless files.

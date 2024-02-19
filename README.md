@@ -2,7 +2,7 @@
 <br> Department of Computer science
 <br> Year II, Semester I
 # Computer programming II Project
-- Project idea to be submitted on: Feb 12/ 2023
+- Project to be submitted on: Feb 12/ 2023
 -  To be submitted to: Instructor Nesredin Suleiman
 - Project description:
  1. Done in a group of 5 - 6
